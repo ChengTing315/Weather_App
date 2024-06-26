@@ -37,5 +37,8 @@ This is a simple React application that fetches and displays the current weather
     node server.js
     ```
 ### Deployment
+    Automated Deployment with Vercel are set up: (everytime we run git push, it will automatically trigger the build and redeploy on Vercel)
 
+### Demo
+    https://weather-app-lilac-three-78.vercel.app/
 
