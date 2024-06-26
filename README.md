@@ -13,7 +13,7 @@ This is a simple React application that fetches and displays the current weather
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/ChengTing315/Weather_App.git
     cd weather-app
     ```
 
@@ -31,11 +31,11 @@ This is a simple React application that fetches and displays the current weather
     ```bash
     npm start
     ```
-
+5. Start the express server application:
+    ```bash
+    cd server
+    node server.js
+    ```
 ### Deployment
 
-This application can be deployed using Vercel. Follow the instructions on [Vercel](https://vercel.com/) to deploy your app.
 
-## License
-
-This project is licensed under the MIT License.
